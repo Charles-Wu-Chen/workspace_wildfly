@@ -1,0 +1,12 @@
+com/devchronicale/di/IUserService.class
+com/devchronicles/facade/LoanService.class
+com/devchronicale/di/UserDataRepository.class
+com/devchronicale/di/UserService7.class
+com/devchronicles/facade/BankServiceFacadeRemote.class
+com/devchronicles/facade/AccountService.class
+com/devchronicles/facade/CustomerService.class
+com/devchronicale/di/User.class
+com/devchronicale/di/UserDataRepositoryImpl.class
+com/devchronicale/di/User11.class
+com/devchronicale/di/Mongo.class
+com/devchronicles/facade/BankServiceFacade.class

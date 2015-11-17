@@ -1,0 +1,42 @@
+package com.devchronicale.di;
+
+import javax.ejb.Remote;
+import javax.ejb.Stateless;
+import javax.inject.Inject;
+
+
+public class UserService6 {
+
+	private UserDataRepository udr;
+
+	
+	/*
+	 * Managed beans in CDI
+
+A Java EE 6 managed bean can be declared by annotating its class with the @ManagedBean annotation. CDI specifies that a Java class qualifies as a managed bean if it is defined to be a managed bean — either by annotation, or because it is session bean, or if it conforms to all of the following rules:
+
+    It is not a non-static inner class.
+    It is a concrete class or is annotated @Decorator.
+    It is not an EJB component.
+    It does not implement javax.enterprise.inject.spi.Extension.
+    It has an appropriate constructor; either:
+        It has a no-argument constructor, or
+        It has a constructor annotated @Inject.
+	 * 
+	 */
+	
+	//have to put inject as below,  else wildfly start up is complaining this is not correct Managed DI beans format
+	
+	@Inject
+	UserService6(UserDataRepository udr) {
+		this.udr = udr;
+	}
+
+	/* (non-Javadoc)
+	 * @see com.devchronicale.di.IUserService#persistUser(com.devchronicale.di.User)
+	 */
+
+	public void persistUser(User user) {
+		udr.save(user);
+	}
+}

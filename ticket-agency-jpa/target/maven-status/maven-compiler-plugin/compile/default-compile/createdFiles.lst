@@ -1,0 +1,15 @@
+com/packtpub/wflydevelopment/chapter5/control/SeatTypeDao.class
+com/packtpub/wflydevelopment/chapter5/control/SeatTypeProducer.class
+com/packtpub/wflydevelopment/chapter5/entity/SeatPositionConverter.class
+com/packtpub/wflydevelopment/chapter5/entity/SeatType.class
+com/packtpub/wflydevelopment/chapter5/util/LoggerProducer.class
+com/packtpub/wflydevelopment/chapter5/control/AbstractDao.class
+com/packtpub/wflydevelopment/chapter5/entity/Seat.class
+com/packtpub/wflydevelopment/chapter5/controller/BookerService.class
+com/packtpub/wflydevelopment/chapter5/control/SeatDao.class
+com/packtpub/wflydevelopment/chapter5/controller/TheatreSetupService.class
+com/packtpub/wflydevelopment/chapter5/control/SeatProducer.class
+com/packtpub/wflydevelopment/chapter5/entity/SeatPosition.class
+com/packtpub/wflydevelopment/chapter5/util/FacesContextProducer.class
+com/packtpub/wflydevelopment/chapter5/control/TicketService.class
+com/packtpub/wflydevelopment/chapter5/util/EntityManagerProducer.class

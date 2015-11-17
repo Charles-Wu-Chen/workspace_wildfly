@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/Users/charlesw/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="/Users/charlesw/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="/wildfly-cdi-injection/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="wildfly-cdi-injection"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/Users/charlesw/.m2/repository/org/jboss/spec/javax/servlet/jboss-servlet-api_3.1_spec/1.0.0.Final/jboss-servlet-api_3.1_spec-1.0.0.Final.jar"/>
+  <path value="/Users/charlesw/.m2/repository/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;" path="%0"/>
+   <linked-resource name="%4;%1;" path="%3"/>
+   <linked-resource name="%1;" path="%4"/>
+   <linked-resource declaration="true" name="%5;" path="%1"/>
+   <linked-resource name="%1;" path="%6"/>
+   <linked-resource name="%1;" path="%2"/>
+  </core>
+  <el>
+   <linked-el length="21" name="%7" offset="4552" path="%8"/>
+   <linked-el length="21" name="%9" offset="4552" path="%8"/>
+   <linked-el length="32" name="%10" offset="3283" path="%8"/>
+   <linked-el length="31" name="%11" offset="5201" path="%8"/>
+   <linked-el length="21" name="%11" offset="4708" path="%8"/>
+   <linked-el length="32" name="%11" offset="3283" path="%8"/>
+   <linked-el length="32" name="%12" offset="3283" path="%8"/>
+   <linked-el length="31" name="%13" offset="5201" path="%8"/>
+   <linked-el length="31" name="%14" offset="5201" path="%8"/>
+   <linked-el length="21" name="%15" offset="4708" path="%8"/>
+   <linked-el length="31" name="%16" offset="5201" path="%8"/>
+   <linked-el length="32" name="%17" offset="3283" path="%8"/>
+   <linked-el length="21" name="%18" offset="4708" path="%8"/>
+   <linked-el length="48" name="%5" offset="1313" path="%19"/>
+   <linked-el length="52" name="%5" offset="1255" path="%19"/>
+   <linked-el length="48" name="%1" offset="1313" path="%19"/>
+   <linked-el length="52" name="%1" offset="1255" path="%19"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/wildfly-cdi-injection/pom.xml" value="%8"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/qualifier/Spanish.java" value="%3"/>
+  <alias path="project.artifactId" value="%7"/>
+  <alias path="project" value="%9"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/SpanishTranslateService.java" value="%4"/>
+  <alias path="version.jboss.spec" value="%10"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/TranslateService.java" value="%6"/>
+  <alias path="version" value="%11"/>
+  <alias path="version.jboss.spec.javaee" value="%12"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/qualifier/English.java" value="%0"/>
+  <alias path="version.wildfly.maven.plugin" value="%13"/>
+  <alias path="version.wildfly.maven" value="%14"/>
+  <alias path="version.war" value="%15"/>
+  <alias path="version.wildfly" value="%16"/>
+  <alias path="version.jboss" value="%17"/>
+  <alias path="version.war.plugin" value="%18"/>
+  <alias path="translation" value="%5"/>
+  <alias path="/wildfly-cdi-injection/src/main/webapp/translate.xhtml" value="%19"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/backing/TranslationBackingBean.java" value="%1"/>
+  <alias
+   path="/wildfly-cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/EnglishTranslateService.java" value="%2"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

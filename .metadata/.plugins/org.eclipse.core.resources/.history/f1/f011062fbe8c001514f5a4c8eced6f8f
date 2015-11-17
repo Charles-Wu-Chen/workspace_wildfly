@@ -1,0 +1,21 @@
+package com.devchronicale.di;
+
+import javax.ejb.Stateless;
+
+@Stateless
+class UserService6 implements IUserService {
+
+	private UserDataRepository udr;
+
+	UserService6(UserDataRepository udr) {
+		this.udr = udr;
+	}
+
+	/* (non-Javadoc)
+	 * @see com.devchronicale.di.IUserService#persistUser(com.devchronicale.di.User)
+	 */
+	@Override
+	public void persistUser(User user) {
+		udr.save(user);
+	}
+}

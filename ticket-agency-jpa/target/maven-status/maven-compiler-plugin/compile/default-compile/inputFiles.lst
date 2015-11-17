@@ -1,0 +1,15 @@
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/TicketService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/entity/Seat.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/entity/SeatPosition.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/util/EntityManagerProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/entity/SeatType.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/util/FacesContextProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/util/LoggerProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/entity/SeatPositionConverter.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/SeatDao.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/SeatTypeDao.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/controller/TheatreSetupService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/SeatTypeProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/AbstractDao.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/controller/BookerService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-jpa/src/main/java/com/packtpub/wflydevelopment/chapter5/control/SeatProducer.java

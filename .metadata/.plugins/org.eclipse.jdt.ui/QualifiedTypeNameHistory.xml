@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="javax.enterprise.context.Dependent"/>
+<fullyQualifiedTypeName name="com.devchronicale.di.IUserService"/>
+<fullyQualifiedTypeName name="org.jboss.as.quickstarts.ejb.remote.stateless.RemoteCalculator"/>
+<fullyQualifiedTypeName name="com.devchronicale.di.User"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+</qualifiedTypeNameHistroy>

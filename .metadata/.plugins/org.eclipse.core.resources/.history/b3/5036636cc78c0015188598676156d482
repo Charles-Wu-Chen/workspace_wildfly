@@ -1,0 +1,7 @@
+package com.devchronicale.di;
+
+public interface IUserService {
+
+	public void persistUser(User user);
+
+}

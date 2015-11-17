@@ -1,0 +1,10 @@
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/boundary/TheatreInfo.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/exception/SeatBookedException.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/boundary/TheatreBooker.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/exception/NoSuchSeatException.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/control/TheatreBox.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/entity/Seat.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/exception/NotEnoughMoneyException.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/boundary/TheatreBookerRemote.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/boundary/TheatreInfoRemote.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/chapter3/control/AutomaticSellerService.java

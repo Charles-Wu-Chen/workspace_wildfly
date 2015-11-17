@@ -1,0 +1,11 @@
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/util/FacesContextProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/controller/BookingRecord.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/boundary/TheatreBox.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/controller/TheatreBooker.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/util/LoggingInterceptor.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/controller/TheatreInfo.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/util/Logged.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/util/LoggerProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/control/AutomaticSellerService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/controller/Poller.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-cdi/src/main/java/com/packtpub/wflydevelopment/chapter4/entity/Seat.java

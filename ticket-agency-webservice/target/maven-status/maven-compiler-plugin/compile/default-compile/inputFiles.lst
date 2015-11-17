@@ -1,0 +1,14 @@
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/entity/Account.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/webservice/JaxRsActivator.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/DefaultTicketWebService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/controller/LoggingRestFilter.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/util/LoggerProducer.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/controller/TheatreBooker.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/TheatreBox.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/TicketWebService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/SeatsResource.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/AccountDto.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/AccountResource.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/SeatDto.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/boundary/CalculatePowerWebService.java
+/Users/charlesw/Documents/workspace_wildfly/ticket-agency-webservice/src/main/java/com/packtpub/wflydevelopment/chapter7/entity/Seat.java

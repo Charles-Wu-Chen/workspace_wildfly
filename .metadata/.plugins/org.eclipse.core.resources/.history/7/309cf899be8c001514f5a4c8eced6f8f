@@ -1,0 +1,23 @@
+package com.devchronicale.di;
+
+import javax.ejb.Remote;
+import javax.ejb.Stateless;
+
+@Stateless
+@Remote(IUserService.class)
+class UserService6 {
+
+	private UserDataRepository udr;
+
+	UserService6(UserDataRepository udr) {
+		this.udr = udr;
+	}
+
+	/* (non-Javadoc)
+	 * @see com.devchronicale.di.IUserService#persistUser(com.devchronicale.di.User)
+	 */
+
+	public void persistUser(User user) {
+		udr.save(user);
+	}
+}
